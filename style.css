@@ -1,0 +1,50 @@
+.col {
+    /* background-color: teal; */
+    margin: 6px;
+    padding: 0px;
+}
+
+img {
+    width: 100%;
+    height: 100%;
+}
+
+select {
+    margin-bottom: 6px;
+}
+
+.callingCode {
+    background-color: rgb(65, 62, 62);
+    color: white;
+    text-align: center;
+    padding: 10px;    
+}
+
+.bg-orange {
+    background-color: orange;
+}
+
+.code {
+    text-align: center;
+    color: rgb(65, 62, 62);
+    padding-top: 70px;
+}
+
+.countryName {
+    background-color: gray;
+    color: white;
+    padding: 10px;
+}
+
+.head {
+    text-align: center;
+    background-color: rgb(65, 62, 62);
+    color: orange;
+}
+
+.weatherHead {
+    background-color: gray;
+    color: yellow;
+    text-align: center;
+    padding: 10px;
+}
